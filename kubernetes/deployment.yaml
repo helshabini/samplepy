@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: samplepy
-        image: helshabini/samplepy:latest
+        image: __imagename__
         ports:
         - containerPort: 5000
